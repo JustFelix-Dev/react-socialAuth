@@ -4,12 +4,12 @@ const GithubStrategy = require('passport-github2').Strategy;
 const FacebookStrategy = require('passport-facebook').Strategy;
 
 // Google
-const GOOGLE_CLIENT_ID = '189603413224-v2asu2r2onph2aer3c9l5kqfnemop424.apps.googleusercontent.com';
-const GOOGLE_CLIENT_SECRET = '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';
+const GOOGLE_CLIENT_ID = 'demo';
+const GOOGLE_CLIENT_SECRET = 'demo';
 
 // GitHub 
-const GITHUB_CLIENT_ID = '263c7a8a5a758db87e78';
-const GITHUB_CLIENT_SECRET = 'e0e50b88299eef50f97ac8990747715836e1f2ad';
+const GITHUB_CLIENT_ID = 'demo';
+const GITHUB_CLIENT_SECRET = 'demo';
 
 // Facebook
 // const FACEBOOK_APP_ID='';
